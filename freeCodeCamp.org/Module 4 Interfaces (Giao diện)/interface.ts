@@ -1,3 +1,4 @@
+export { };
 interface User {
     readonly _id: number;
     email: string;
